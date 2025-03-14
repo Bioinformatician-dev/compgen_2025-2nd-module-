@@ -2,7 +2,7 @@
 Spatial Omics Analysis
 
 ## Learning objectives and course plan for compgen2025 course 
-Basic knowledge of R, Python, omics technologies, and statistics is expected from participants who who want to join all three modules. Participants who want to only join module 1 do not need to have programming experience but it would help if they know a bit of R. The application form has questions specific to these areas. However, we will adjust the level of the course content and the difficulty depending on the level of people selected for the course. 
+Basic knowledge of R, Python, omics technologies, and statistics is expected from participants who who want to join all three modules. 
 
 Course url: https://compgen.mdc-berlin.de/ 
 Organizer: Altuna Akalin (https://bioinformatics.mdc-berlin.de/)
